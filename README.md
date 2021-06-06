@@ -1,6 +1,6 @@
 
 
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Athul Cp](https://athul-cp.github.io/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Here I am, Athul Cp](https://athul-cp.github.io/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
@@ -15,7 +15,7 @@
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/> -->
 </p>
 
 
