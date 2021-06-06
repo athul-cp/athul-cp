@@ -40,9 +40,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/{athul-cp}/count.svg)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=athul-cp&show_icons=true&theme=gotham" alt="Athul Cp | Stats" />
-
+<hr>
 <h4>🔥Streak Stats</h4>
-
+<hr>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
   <a href="https://github.com/athul-cp/github-readme-streak-stats">
