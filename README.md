@@ -1,16 +1,6 @@
-### Hi there 👋 I am Athul Cp
 
 
-- 🔭 I’m currently working on App Development
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on App Development,Digital Marketing,Web Development
-- 🤔 I’m looking for help with people's who were able to increase my knowledge
-- 💬 Ask me about Flutter,HTML,C,C++,Python,CSS,JavaScript,Data Science,Dart
-- 📫 How to reach me: athulcp003@gmail.com 📧
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 😅
-
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Philona Reetha Sebastian](https://philona123.github.io/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Athul Cp](https://athul-cp.github.io/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
@@ -28,34 +18,37 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
-* 🔭 I have worked as a Web developement and design intern at The sparks foundation and also as a Back end developer in hellomunnar.in Progressive Web App.
-* ⭐ Earned Gold badge & 5 star at HackerRank in C++ programming.
-* ⚡ Passionate for learning & exploring new Tech.
-* 🌱 I’m currently learning Nothing😪 (well, DSA if that counts😂).
-* 💬 Ask me about any tech stuffs🥱
-* 😄 Pronouns: She/Her
-* 🤩 Fun fact: I love playing Speed Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
+
+- 🔭 I’m currently working on App Development
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on App Development,Digital Marketing,Web Development
+- 🤔 I’m looking for help with people's who were able to increase my knowledge
+- 💬 Ask me about Flutter,HTML,C,C++,Python,CSS,JavaScript,Data Science,Dart
+- 📫 How to reach me: athulcp003@gmail.com 📧
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 😅
+
 
 
 <h4>📊 Github Stats</h4>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philona123&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-cp&layout=compact&theme=tokyonight" alt="languages" height="165">
 
-![Visitor Count](https://profile-counter.glitch.me/{philona123}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{athul-cp}/count.svg)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=athul-cp&show_icons=true&theme=gotham" alt="Athul Cp | Stats" />
 
 <h4>🔥Streak Stats</h4>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
-  <a href="https://github.com/philona123/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="philona's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philona123&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/athul-cp/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Athul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philona123&theme=monokai-metallian&hide_border=true"/>
   </a>
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
  
-[twitter]: https://twitter.com/Philona1729
-[linkedin]: https://www.linkedin.com/in/philona-reetha-sebastian/
+[twitter]: https://twitter.com/athulcp_
+[linkedin]: https://www.linkedin.com/in/athulcp/
 
 
