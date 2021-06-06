@@ -29,7 +29,7 @@
 - 📫 How to reach me: athulcp003@gmail.com 📧
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 😅
-
+<hr>
 
 
 <h4> &nbsp;  &nbsp;  Github Stats  📊 </h4>
