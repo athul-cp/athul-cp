@@ -32,7 +32,7 @@
 
 
 
-<h4>📊 Github Stats</h4>
+<h4>     Github Stats📊 </h4>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-cp&layout=compact&theme=tokyonight" alt="languages" height="165">
 
