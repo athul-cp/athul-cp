@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-cp&layout=compact&theme=tokyonight" alt="languages" height="165">
 
-![Visitor Count](https://profile-counter.glitch.me/{athul-cp}/count.svg)
+Visitor Count ![Visitor Count](https://profile-counter.glitch.me/{athul-cp}/count.svg)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=athul-cp&show_icons=true&theme=gotham" alt="Athul Cp | Stats" />
 <hr>
