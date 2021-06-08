@@ -52,7 +52,10 @@
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/athul-cp/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/athul-cp/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athul-cp&layout=compact)](https://github.com/athul-cp/github-readme-stats)
+
 
  
 [twitter]: https://twitter.com/athulcp_
