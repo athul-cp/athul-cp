@@ -51,6 +51,9 @@
   </a>
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
+
+[![Athul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athul-cp)](https://github.com/athul-cp/github-readme-stats)
+
  
 [twitter]: https://twitter.com/athulcp_
 [linkedin]: https://www.linkedin.com/in/athulcp/
