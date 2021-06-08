@@ -31,7 +31,7 @@
 <hr>
 
 
-<h4> &nbsp;  &nbsp;  Github Stats  📊 </h4>
+<h4> &nbsp;  &nbsp; Github Stats  📊 </h4>
 <hr style="height:2px;border-width:0;color:gray;background-color:white">
 
 
