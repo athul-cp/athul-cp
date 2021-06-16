@@ -19,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/> -->
 </p>
 
-
+ 
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on App Development,Digital Marketing,Web Development
