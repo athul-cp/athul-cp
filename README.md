@@ -28,7 +28,7 @@
 - 📫 How to reach me: athulcp003@gmail.com 📧
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 😅 🏏
-<br>
+<br> 
 <hr>
 
 
