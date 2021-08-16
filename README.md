@@ -60,4 +60,3 @@
 [twitter]: https://twitter.com/athulcp_
 [linkedin]: https://www.linkedin.com/in/athulcp/
 
-
