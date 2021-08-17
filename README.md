@@ -52,7 +52,7 @@
 </p>
 
 [Athul CP's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Athul_Cp)
-(https://github.com/athul-cp/github-readme-stats) 
+<!--(https://github.com/athul-cp/github-readme-stats) -->
 
 
 
