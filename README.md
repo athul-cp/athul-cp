@@ -51,9 +51,9 @@
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 <hr>
-<h5>Athul Cp's Wakatime Status :
+<!--<h5>Athul Cp's Wakatime Status :
  <hr>
-<img title="Wakatime" alt="Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Athul_Cp"/>
+<img title="Wakatime" alt="Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Athul_Cp"/> -->
      
 <!-- [Athul CP's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Athul_Cp) 
 <!--(https://github.com/athul-cp/github-readme-stats) -->
