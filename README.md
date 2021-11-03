@@ -24,7 +24,7 @@
 - 💬 Ask me about Flutter,HTML,C,C++,Python,CSS,JavaScript,Data Science,Dart
 - 📫 How to reach me: athulcp003@gmail.com 📧
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 😅 🏏
+- ⚡ Fun fact: 😅 🏏 ⚽
 <br> 
 <hr>
 
