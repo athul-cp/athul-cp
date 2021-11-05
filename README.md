@@ -18,8 +18,8 @@
 
  
  
-- 🔭 I’m currently working on App Development
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently diving deep 🤿 into my college coursework
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Flutter Development.
 - 👯 I’m looking to collaborate on App Development,Digital Marketing,Web Development
 - 🤔 I’m looking for help with people's who were able to increase my knowledge
 - 💬 Ask me about Flutter,HTML,C,C++,Python,CSS,JavaScript,Data Science,Dart
