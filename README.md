@@ -21,6 +21,11 @@ Here I am, Athul Cp
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+ <code><img width="26px" src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"></code>
+ <code><img width="26px" src="https://www.innovisionlearning.com/storage/post/PowerBI-Icon-Transparent.png"></code>
+<code><img width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ki8Uj-wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/63tebge261ktiw5qqh9t.png"></code>
+<code><img width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+
 
 
  
