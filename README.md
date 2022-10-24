@@ -35,7 +35,7 @@ Here I am, Athul Cp
 
  
  
-- 🔭 I’m currently diving deep 🤿 into office works
+- 🔭 I’m currently diving deep 🤿 into learning new technologies
 - 🌱 I’m currently learning react js
 - 👯 I’m looking to collaborate on Digital Marketing,Web Development
 - 🤔 I’m looking for help with people's who were able to increase my knowledge
